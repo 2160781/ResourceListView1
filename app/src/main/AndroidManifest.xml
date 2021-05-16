@@ -27,9 +27,6 @@
         <activity android:name=".Activity_facebook">
 
         </activity>
-        <activity android:name=".ListView">
-
-        </activity>
     </application>
 
 </manifest>
